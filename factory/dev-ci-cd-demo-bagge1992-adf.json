@@ -1,0 +1,9 @@
+{
+	"name": "dev-ci-cd-demo-bagge1992-adf",
+	"location": "westeurope",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "7a4172ed-fcd4-4886-b9a4-990bd987f059",
+		"tenantId": "f425d6c1-dcb2-4b18-b12e-4276f5ef8781"
+	}
+}
